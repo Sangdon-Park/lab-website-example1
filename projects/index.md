@@ -2,15 +2,14 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Research Projects & Models
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research projects focus on developing advanced climate models and analyzing complex Earth system interactions. We combine computational modeling with observational data to understand climate dynamics and their implications for environmental management and policy.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="climate modeling, carbon cycle, fire dynamics, earth system" %}
 
 {% include search-info.html %}
 

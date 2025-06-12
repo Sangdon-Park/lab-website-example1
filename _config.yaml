@@ -1,19 +1,19 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-header: images/background.jpg
-footer: images/background.jpg
+title: KAIST Climate System Lab
+subtitle: Advancing Climate Science Through Innovation & Collaboration
+description: Understanding Earth's climate system through interdisciplinary research, advanced modeling, and data analysis. Led by Prof. Jin-Soo Kim at KAIST.
+header: images/lab-background.png
+footer: images/lab-background.png
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
+  email: jinddu@gmail.com
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  github: kaist-climate-lab
+  twitter: 
+  youtube:
 
 ### jekyll settings
 

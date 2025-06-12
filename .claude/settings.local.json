@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bundle exec:*)",
+      "Bash(sudo apt:*)",
+      "Bash(sudo apt install:*)",
+      "Bash(ruby --version)",
+      "Bash(docker:*)",
+      "Bash(gem install:*)",
+      "Bash(bundle install)",
+      "WebFetch(domain:sites.google.com)",
+      "Bash(rm:*)",
+      "Bash(wget:*)",
+      "Bash(python3:*)",
+      "Bash(apt list:*)",
+      "Bash(httrack:*)",
+      "Bash(find:*)",
+      "Bash(cp:*)",
+      "Bash(ls:*)",
+      "Bash(mv:*)"
+    ],
+    "deny": []
+  }
+}

@@ -1,47 +1,41 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Carbon-Climate Feedback Analysis
+  subtitle: Understanding carbon cycle responses to climate change
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/research-diagram-1.jpg
+  description: Investigating how climate change impacts global carbon uptake by land and ocean systems. This project focuses on understanding future changes in carbon sequestration capacity, which is crucial for achieving carbon neutrality by 2050.
   tags:
-    - resource
+    - carbon cycle
+    - climate modeling
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Fire-Climate Interaction Model
+  subtitle: Regional fire dynamics under changing climate
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/research-diagram-2.jpg
+  description: Developing models to understand how fire spreads under different regional atmospheric conditions. Key focus on the relationship between snow melting patterns and fire activity in southeastern Siberia.
   tags:
-    - resource
+    - fire dynamics
+    - climate modeling
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Earth System Integration
+  subtitle: Coupled environmental sub-system modeling
+  image: images/research-diagram-3.jpg
+  description: Creating integrated models to understand changes in interconnected environmental sub-systems and their relationships with human development patterns.
   tags:
-    - resource
-    - publication
+    - earth system
+    - climate modeling
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Arctic Warming Mechanisms
+  subtitle: Stomata behavior and Arctic climate linkages
+  image: images/research-diagram-3.jpg
+  description: Studying complex linkages between vegetation stomata behavior and Arctic warming patterns, contributing to understanding of climate system interactions.
   tags:
-    - software
+    - climate modeling
+    - earth system
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Precipitation-Temperature Coupling
+  subtitle: Sea surface temperature sensitivity analysis
+  image: images/research-diagram-4.jpg
+  description: Analyzing how local sea surface temperature sensitivity to precipitation varies by season and region, providing insights into regional climate dynamics.
   tags:
-    - software
+    - climate modeling
+    - earth system
