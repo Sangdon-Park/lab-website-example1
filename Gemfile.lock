@@ -27,7 +27,6 @@ GEM
     fiber-annotation (0.2.0)
     fiber-local (1.0.0)
     forwardable-extended (2.6.0)
-    gemoji (3.0.1)
     google-protobuf (3.22.0)
     google-protobuf (3.22.0-arm64-darwin)
     google-protobuf (3.22.0-x64-mingw-ucrt)
@@ -72,11 +71,6 @@ GEM
       sass-embedded (~> 1.54)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-spaceship (0.10.2)
-      gemoji (~> 3.0)
-      jekyll (>= 3.6, < 5.0)
-      nokogiri (~> 1.6)
-      rainbow (~> 3.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.7.1)
@@ -150,7 +144,6 @@ DEPENDENCIES
   jekyll-last-modified-at
   jekyll-redirect-from
   jekyll-sitemap
-  jekyll-spaceship
   webrick (~> 1.7)
 
 BUNDLED WITH
