@@ -45,7 +45,6 @@ collections:
 
 # jekyll plugins
 plugins:
-  - jekyll-spaceship
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-feed
